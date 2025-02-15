@@ -14,4 +14,4 @@ To use the Characterizer class, you need to have Python installed on your system
 ```bash
 pip install numpy pandas transformers torch deep-translator
 
-You will also need to onstall the [french-lefff-lemmatizer](https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer) repo.
+You will also need to install the [french-lefff-lemmatizer](https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer) repo.
